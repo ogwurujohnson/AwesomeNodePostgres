@@ -4,6 +4,8 @@
   "description": "A project i used to teach how to persist data using PostgreSQL while creating APIs with NodeJs\r we would be working on  creating a classroom application, an API for now to handle viewing all students, adding a student, editing a student details, deleting a student, etc.  Feel free to add other functionalities as well by contributing to this project and leaving direction as how to use it on the README.md file",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
     "create": "node ./services/db createTables"
   },
   "repository": {
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/ogwurujohnson/AwesomeNodePostgres#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "make-runnable": "^1.3.6",
     "pg": "^7.5.0"
