@@ -25,11 +25,11 @@
 ![price](https://img.shields.io/badge/Price-Free-green.svg)
 
 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/ogwurujohnson/AwesomeNodePostgres.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fogwurujohnson345%2FAwesomeNodePostgres)
+[![Twitter](https://img.shields.io/twitter/url/https/github.com/ogwurujohnson/AwesomeNodePostgres.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fogwurujohnson%2FAwesomeNodePostgres)
 
 
 
 
 # AwesomeNodePostgres
-A project i used to teach how to persist data using PostgreSQL while creating APIs with NodeJs
+A project created for the purpose of teaching how to persist data using PostgreSQL while creating APIs with NodeJs
 we would be working on  creating a classroom application, an API for now to handle viewing all students, adding a student, editing a student details, deleting a student, etc.  Feel free to add other functionalities as well by contributing to this project and leaving direction as how to use it on the README.md file
