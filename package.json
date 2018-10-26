@@ -1,0 +1,19 @@
+{
+  "name": "awesomenodepostgres",
+  "version": "1.0.0",
+  "description": "A project i used to teach how to persist data using PostgreSQL while creating APIs with NodeJs\r we would be working on  creating a classroom application, an API for now to handle viewing all students, adding a student, editing a student details, deleting a student, etc.  Feel free to add other functionalities as well by contributing to this project and leaving direction as how to use it on the README.md file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ogwurujohnson/AwesomeNodePostgres.git"
+  },
+  "author": "ogwurujohnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogwurujohnson/AwesomeNodePostgres/issues"
+  },
+  "homepage": "https://github.com/ogwurujohnson/AwesomeNodePostgres#readme"
+}
