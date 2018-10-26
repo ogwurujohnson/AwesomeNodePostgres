@@ -36,7 +36,6 @@ app.get('/student', (req, res) => {
   });
 });
 
-
 app.post('/student', (req, res) => {
   const data = {
     name : req.body.studentName,
@@ -62,6 +61,7 @@ app.post('/student', (req, res) => {
     });
   });
 });
+
 
 app.get('/student/:id', (req,res) => {
   const id = req.params.id;
