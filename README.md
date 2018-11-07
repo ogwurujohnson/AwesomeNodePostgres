@@ -23,6 +23,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/ogwurujohnson/AwesomeNodePostgres.svg)](https://github.com/ogwurujohnson/AwesomeNodePostgres/stargazers)
 [![GitHub license](https://img.shields.io/github/license/ogwurujohnson/AwesomeNodePostgres.svg)](https://github.com/ogwurujohnson/AwesomeNodePostgres/blob/master/LICENSE)
 ![price](https://img.shields.io/badge/Price-Free-green.svg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesomeNodePostgres.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesomeNodePostgres?ref=badge_shield)
 
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/ogwurujohnson/AwesomeNodePostgres.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fogwurujohnson%2FAwesomeNodePostgres)
@@ -33,3 +34,7 @@
 # AwesomeNodePostgres
 A project created for the purpose of teaching how to persist data using PostgreSQL while creating APIs with NodeJs
 we would be working on  creating a classroom application, an API for now to handle viewing all students, adding a student, editing a student details, deleting a student, etc.  Feel free to add other functionalities as well by contributing to this project and leaving direction as how to use it on the README.md file
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesomeNodePostgres.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fogwurujohnson%2FAwesomeNodePostgres?ref=badge_large)
